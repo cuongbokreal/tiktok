@@ -1,4 +1,4 @@
-/*2021 by Cuongbokreal*/
+/*2021 by Cuongbokreal*/ console.log('import //cuongbokreal.github.io/tiktok/script.js success.');
 var ghimData = [
     {"title"  : "MBBank Android (Mở tài khoản số đẹp)",
      "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
