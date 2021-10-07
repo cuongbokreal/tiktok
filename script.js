@@ -1,3 +1,4 @@
+/*2021 by Cuongbokreal*/
 var ghimData = [
     {"title"  : "MBBank Android (Mở tài khoản số đẹp)",
      "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
