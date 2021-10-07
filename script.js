@@ -102,8 +102,6 @@ var listStickyUrl=[
 ];
 var randomListStickyUrl=listStickyUrl[Math.floor(Math.random() * listStickyUrl.length)];
 document.getElementById('voucher-sticky-img').src=randomListStickyUrl;
-  
-
 
 // nút đóng sticky
 function closeVoucherSticky(){
