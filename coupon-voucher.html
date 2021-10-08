@@ -127,7 +127,10 @@
         var randomPhut = phut[Math.floor(Math.random() * phut.length)];
         var getRandomPhut = mi - randomPhut;
         document.getElementById('updateTime').innerHTML = `Cập nhật: ${d}/${m+1} ${h}:${Math.abs(getRandomPhut)}`;
-        console.log(`Tổng coupon: ${totalCoupon}`);
+      
+        var regSoLuong = /[0-9]/g;
+        var soLuongCoupon = document.querySelector('.history-tabs > em').innerText.match(regSoLuong);
+        console(soLuongCoupon);
      </script>
      <style>#updateTime{text-align:center;}</style>
     <!--end update time-->
