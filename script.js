@@ -37,6 +37,10 @@ for(let a=0; a<ghimData.length; a++){
 };
 
 var jsonData = [
+    {"title"  : "Tổng hợp mã Giảm Giá, Deal Sale Shopee 10/10",
+     "imgUrl" : "https://i.imgur.com/ztXUlsc.png",
+     "linksp" : "https://cuongbokit.blogspot.com/2021/10/tong-hop-ma-giam-gia-deal-sale-freeship-1k-9k-thang-9.html"
+    }, 
     {"title"  : "Tìm anh em song sinh",
      "imgUrl" : "https://i.imgur.com/8al2CNV.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/p/tiep-tuc.html?url=aHR0cHM6Ly9waW1leWVzLmNvbS8"
