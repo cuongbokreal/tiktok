@@ -1,29 +1,9 @@
 /*2021 by Cuongbokreal*/ console.log('import //cuongbokreal.github.io/tiktok/script.js success.');
 var ghimData = [
-    {"title"  : "MBBank Android (Mở tài khoản số đẹp)",
-     "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
-     "linksp" : "https://shorten.asia/ZjRxGqPQ"
+     {"title"  : "Tìm mã giảm giá Shopee, Tiki, Lazada, Sendo",
+     "imgUrl" : "https://i.imgur.com/IluELPT.png",
+     "linksp" : "https://trumgiamgia.tk/?ctv=bioCuongbokreal"
     }, 
-    {"title"  : "MBBank IOS (Mở tài khoản số đẹp nhé)",
-     "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
-     "linksp" : "https://shorten.asia/aU4AgDvj"
-    }, 
-    {"title"  : "TNEX - MSB EKYC ANDROID ( cơ hội nhận 20k - tải xong )",
-     "imgUrl" : "https://i.imgur.com/SnLXYYb.jpg",
-     "linksp" : "https://shorten.asia/dHSC1UUq"
-    }, 
-    {"title"  : "TNEX - MSB EKYC IOS ( cơ hội nhận 20k - tải xong )",
-     "imgUrl" : "https://i.imgur.com/SnLXYYb.jpg",
-     "linksp" : "https://shorten.asia/23wC6nfV"
-    },
-    {"title"  : "Cake ANDROID ( Ngân hàng số )",
-     "imgUrl" : "https://i.imgur.com/ud3YtR4.jpg",
-     "linksp" : "https://shorten.asia/VTvphwcj"
-    }, 
-    {"title"  : "Cake IOS ( Ngân hàng số )",
-     "imgUrl" : "https://i.imgur.com/ud3YtR4.jpg",
-     "linksp" : "https://shorten.asia/G61hchFW"
-    }
 ];
 let ghim = "";
 for(let a=0; a<ghimData.length; a++){
@@ -37,6 +17,10 @@ for(let a=0; a<ghimData.length; a++){
 };
 
 var jsonData = [
+    {"title"  : "Cách điểm danh trên Google Meet không cần cài tiện ích",
+     "imgUrl" : "https://i.imgur.com/6YaZl55.jpg",
+     "linksp" : "https://cuongbokit.blogspot.com/2021/10/cach-diem-danh-tren-google-meet-khong.html"
+    }, 
     {"title"  : "Tổng hợp mã Giảm Giá, Deal Sale Shopee 10/10",
      "imgUrl" : "https://i.imgur.com/ifmUpAs.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/2021/10/tong-hop-ma-giam-gia-deal-sale-freeship-1k-9k-thang-9.html"
