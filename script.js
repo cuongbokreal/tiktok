@@ -17,6 +17,10 @@ for(let a=0; a<ghimData.length; a++){
 };
 
 var jsonData = [
+    {"title"  : "Tổng hợp Deal Sale LAZADA 11/11",
+     "imgUrl" : "https://blogger.googleusercontent.com/img/a/AVvXsEgFwBHZUSbPZhizXWdifbOoJxBgGXLrgvrjH_U2t8h4NySigdC13N1APfPFkKsdP93lYGdm-cC5PskRKu6RBShkSw9OH6tKj9AjxEI41NoXFswSskmShFvb79PnEi1tUS5J4gRDnB-4gbpuJ4GudMz43CMf2oyoqap3tntAMJweSrnzKztUpjm0a1DQCQ=w640-h334",
+     "linksp" : "https://cuongbokit.blogspot.com/2021/11/tong-hop-deal-sale-freeship-extra-hoan.html"
+    }, 
     {"title"  : "Tổng hợp Voucher, Deal Sale Shopee 11/11 - Mã giảm tới 96%",
      "imgUrl" : "https://blogger.googleusercontent.com/img/a/AVvXsEhxyIMK5RB6Oz5ckQXtOVgm5nmWZZHT74aVSNyaQwrvur9b7cReJdcMY8SnwrAzsk12_KullPdfnN_kxznd5K6Nn5w2N1Y35xRRDh4e31m3AmaWG59ow_BlMLCewU-vqxFtlvekoxAeiC7PSv3mnqcIz70cUpO7vEDLgwDV-1fJ-hmMT2i67xx1eruDuA=w640-h322",
      "linksp" : "https://cuongbokit.blogspot.com/2021/11/tong-hop-voucher-freeship-ma-giam-gia.html"
