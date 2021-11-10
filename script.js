@@ -17,6 +17,10 @@ for(let a=0; a<ghimData.length; a++){
 };
 
 var jsonData = [
+    {"title"  : "AZOTA :b",
+     "imgUrl" : "https://blogger.googleusercontent.com/img/a/AVvXsEjsVavo3C6gN8s3TumtpgelIi_xgsCj4Pf7huG3rT8pL5qXQfGOd5AjzH-IGJVygxSMjEA1Rsf7ydVeJT8USpwRM7PiAyg9F0dRddux9KT5NFVbwhwMcRs52Ix0MAUbNFTwM_sfrcL_ub5gPjZ7vLrVPmadq2IjKLaTVR61s3zwvinhmMvMzMJjSSZZMg=w640-h426",
+     "linksp" : "https://cuongbokit.blogspot.com/2021/11/cach-hack-azota-tren-dien-thoai.html"
+    },   
     {"title"  : "Tổng hợp Deal Sale, Mã Giảm Giá TIKI 11/11",
      "imgUrl" : "https://i.imgur.com/zwgepYk.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/2021/11/tong-hop-voucher-freeship-ma-giam-gia-tiki-11-11.html"
