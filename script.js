@@ -1,6 +1,6 @@
 /*2021 by Cuongbokreal*/ console.log('import //cuongbokreal.github.io/tiktok/script.js success.');
 var ghimData = [
-     {"title"  : "Tìm mã giảm giá Shopee, Tiki, Lazada, Sendo",
+     {"title"  : "Tìm mã giảm giá Shopee, Tiki, Lazada, Sendo TẠI ĐÂY",
      "imgUrl" : "https://i.imgur.com/IluELPT.png",
      "linksp" : "https://trumgiamgia.tk/?ctv=bioCuongbokreal"
     }, 
