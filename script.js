@@ -17,15 +17,15 @@ for(let a=0; a<ghimData.length; a++){
 };
 
 var jsonData = [
-    {"title"  : "Cách Tạo Trang WEB Giới Thiệu Bản Thân Cực Đơn Giản",
+    {"title"  : "Phần 4: Cách Tạo Trang WEB Giới Thiệu Bản Thân Cực Đơn Giản",
      "imgUrl" : "https://i.imgur.com/NG81P6I.png",
      "linksp" : "https://cuongbokit.blogspot.com/2021/11/cach-tao-trang-gioi-thieu-ban-than-cuc-don-gian.html?utm_source=CuongbokrealBio"
     }, 
-    {"title"  : "Cách Tạo Trang Đếm Ngày Hẹn Hò Cực Xịn",
+    {"title"  : "Phần 3: Cách Tạo Trang Đếm Ngày Hẹn Hò Cực Xịn",
      "imgUrl" : "https://i.imgur.com/MhV9QFx.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/2021/11/cach-tao-trang-dem-ngay-hen-ho-cuc-xin.html?utm_source=CuongbokrealBio"
     },  
-    {"title"  : "Cách Tạo Trang WEB Tỏ Tình Crush Auto Đổ - Share Code",
+    {"title"  : "Phần 2: Cách Tạo Trang WEB Tỏ Tình Crush Auto Đổ - Share Code",
      "imgUrl" : "https://i.imgur.com/xXzAgol.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/2021/11/cach-tao-trang-web-to-tinh-crush-share.html?utm_source=CuongbokrealBio"
     }, 
