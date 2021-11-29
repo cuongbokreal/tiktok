@@ -291,11 +291,9 @@ cursor: pointer;
         flex-wrap: wrap;
         padding: 0.2rem 0;
     }
-
     .profile::after {
         display: none;
     }
-
     .profile-image,
     .profile-user-settings,
     .profile-bio,
@@ -303,11 +301,10 @@ cursor: pointer;
         float: none;
         width: auto;
     }
-
     .profile-image img {
         width: 7.7rem;
     }
-
+   .profile-image {margin-right: 1rem;}
     .profile-user-settings {
         flex-basis: calc(100% - 10.7rem);
         display: flex;
