@@ -8,14 +8,12 @@
 .social-button--facebook::after {
   background: #3b5999;
 }
-
 .social-button--youtube {
   color: #FF0000;
 }
 .social-button--youtube::after {
   background: #FF0000;
 }
-
 .social-button--tiktok {
   color: #000000;
 }
@@ -219,7 +217,7 @@ cursor: pointer;
 /* Profile Section */
 
 .profile {
-    padding: 2rem 0;
+    padding: 0.5rem 0;
 }
 
 .profile::after {
