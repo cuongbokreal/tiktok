@@ -17,6 +17,10 @@ for(let a=0; a<ghimData.length; a++){
 };
 
 var jsonData = [
+     {"title"  : "Cách HACK Đáp Án Quizizz 100% đúng Cực Đơn Giản (Update) - Quizizz Auto Answers",
+     "imgUrl" : "https://i.imgur.com/cCrjbL1.jpg",
+     "linksp" : "https://cuongbokit.blogspot.com/2021/12/cach-hack-dap-quizizz-cuc-don-gian.html?utm_source=cuongbokrealbio"
+    }, 
      {"title"  : "Cách Hack Đáp Án Blooket - Script Cheat Code",
      "imgUrl" : "https://i.imgur.com/OaFdD0O.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/2021/12/hack-booklet-auto-answer-correct.html?utm_source=cuongbokrealbio"
