@@ -4,7 +4,7 @@ var ghimData = [
      "imgUrl" : "https://i.imgur.com/IluELPT.png",
      "linksp" : "https://trumgiamgia.tk/?ctv=bioCuongbokreal"
     }, 
-     {"title"  : "SELLY - Kiếm tiền Online không cần vốn",
+     {"title"  : "SELLY - Kiếm tiền Online không cần vốn, thu nhập lên tới 10m /tháng",
      "imgUrl" : "https://content.accesstrade.vn/adv/1647311141_avatar_1647311141.jpg",
      "linksp" : "https://shorten.asia/uExz5qEq"
     }, 
